@@ -1,6 +1,6 @@
 # Restaurant Chatbot with LangChain and FastAPI
 
-A restaurant chatbot that can answer customer questions, show menu items, and evaluate AI responses using LangChain and HuggingFace embeddings. Built with FastAPI and a modern Python backend.
+A restaurant chatbot that can answer customer questions, show menu items, and evaluate AI responses using LangChain and HuggingFace embeddings. Built with FastAPI and Python backend.
 
 ---
 
