@@ -28,6 +28,3 @@ class States:
 
     data: Optional[Any] = None
     data_loaded: bool = False
-
-    APP_NAME: str = "RAG Chatbot"
-    DEBUG: bool = True
